@@ -2,3 +2,5 @@
 __pycache__/
 .vscode/
 *.pyc
+echo "debug_*.png" >> .gitignore
+echo "*.png" >> .gitignore
