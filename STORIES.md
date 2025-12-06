@@ -20,17 +20,13 @@ As a user
 I want to navigate from the catalog to the add-book page  
 So that I can add a new book
 
-## US-6: Add a new book (valid input)
+## US-5: Add a new book (valid input)
 As a user  
 I want to submit a new book with title (and optional description)  
 So that it appears in the catalog  
 
-## US-5: Navigation
+## US-6: Navigation
 As a user
 I want navigation buttons/links to take me to the correct view
 So that I can switch between pages easily
 
-## US-6: Edge cases
-As a tester
-I want the system to handle repeated clicks and invalid input
-So that the page behaves correctly under unexpected actions
