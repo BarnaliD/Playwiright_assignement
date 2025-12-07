@@ -25,8 +25,3 @@ As a user
 I want to submit a new book with title  
 So that it appears in the catalog  
 
-## US-6: Navigation
-As a user
-I want navigation buttons/links to take me to the correct view
-So that I can switch between pages easily
-
