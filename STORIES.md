@@ -22,7 +22,7 @@ So that I can add a new book
 
 ## US-5: Add a new book (valid input)
 As a user  
-I want to submit a new book with title (and optional description)  
+I want to submit a new book with title  
 So that it appears in the catalog  
 
 ## US-6: Navigation
